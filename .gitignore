@@ -2,3 +2,4 @@ adl
 
 .zig-cache/
 zig-out/
+target/
